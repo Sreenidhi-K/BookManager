@@ -1,0 +1,85 @@
+body
+{
+    background-image:url("data_dots.png");
+    color: white;
+    font-family: Century Gothic;
+    margin: 0px;
+}
+
+.cont
+{
+    
+    position: absolute;
+    left:600px;
+    top:100px;
+    
+}
+#logout
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-style: ridge;
+    border-color: white;
+    padding: 10px;
+    position: absolute;
+    left:100px;
+    top:100px;
+}
+#search
+{
+    font-family: monospace;
+    font-size: 30px;
+}
+#result
+{
+    position: absolute;
+    left:600px;
+    top:400px;
+    
+}
+#thumb
+{
+    height: 200px;
+    width:200px;
+}
+#my_lib
+{
+   
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-style: ridge;
+    border-color: white;
+    padding: 10px;
+    position: absolute;
+    left:200px;
+    top:100px;
+}
+#other
+{
+   
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-style: ridge;
+    border-color: white;
+    padding: 10px;
+    position: absolute;
+    left:350px;
+    top:100px;
+}
+#tit
+{
+ font-size: 20px;
+ color: deeppink;
+}
+#lib
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: yellow;
+    padding: 2px;
+    border-color: darkkhaki;
+    border-style: double;
+}
